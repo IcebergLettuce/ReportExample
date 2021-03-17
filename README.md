@@ -1,3 +1,3 @@
-`python main.py init --name hallo` \\
-`python main.py train --name hallo`\\
-`python main.py report --name hallo` \\
+`python main.py init --name hallo` <br/>
+`python main.py train --name hallo`<br/>
+`python main.py report --name hallo` <br/>
