@@ -1,0 +1,8 @@
+app:
+    # Application related Configuration
+    database: 123.121.12
+    verbosity: 2
+ml:
+    # Configuration for the ML Model
+    model: linear
+    alpha: 0.2

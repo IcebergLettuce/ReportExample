@@ -1,0 +1,42 @@
+INFO:root:Running strategy: init
+INFO:root:Execution done..!
+INFO:root:Running strategy: train
+ERROR:root:Uuppps... some error occured
+INFO:root:Running strategy: train
+ERROR:root:Uuppps... some error occured
+INFO:root:Running strategy: train
+ERROR:root:Uuppps... some error occured: __init__() missing 1 required positional argument: 'config'
+INFO:root:Running strategy: train
+ERROR:root:Uuppps... some error occured: predict() missing 1 required positional argument: 'X'
+INFO:root:Running strategy: train
+INFO:root:Execution done..!
+INFO:root:Running strategy: train
+INFO:root:Execution done..!
+INFO:root:Running strategy: report
+INFO:root:Execution done..!
+INFO:root:Running strategy: report
+INFO:root:Execution done..!
+INFO:root:Running strategy: train
+INFO:root:Execution done..!
+INFO:root:Running strategy: report
+INFO:root:Execution done..!
+INFO:root:Running strategy: report
+INFO:root:Execution done..!
+INFO:root:Running strategy: report
+ERROR:root:Uuppps... some error occured: name 'general' is not defined
+INFO:root:Running strategy: report
+ERROR:root:Uuppps... some error occured: name 'general' is not defined
+INFO:root:Running strategy: report
+ERROR:root:Uuppps... some error occured: 'name'
+INFO:root:Running strategy: report
+ERROR:root:Uuppps... some error occured: name 'datetime' is not defined
+INFO:root:Running strategy: report
+ERROR:root:Uuppps... some error occured: 'rpath'
+INFO:root:Running strategy: report
+INFO:root:Execution done..!
+INFO:root:Running strategy: init
+INFO:root:Execution done..!
+INFO:root:Running strategy: train
+INFO:root:Execution done..!
+INFO:root:Running strategy: report
+INFO:root:Execution done..!
